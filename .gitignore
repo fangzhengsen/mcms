@@ -1,0 +1,12 @@
+/ms-mcms/target/
+/ms-mcms/.classpath
+/ms-mcms/.settings
+/ms-mcms/.*
+/ms-mcms/.project
+/ms-mcms/head-file.ftl
+/ms-basic/target/
+/ms-basic/.classpath
+/ms-basic/.settings
+/ms-basic/.*
+/ms-basic/.project
+/ms-basic/head-file.ftl
